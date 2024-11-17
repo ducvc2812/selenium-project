@@ -1,0 +1,27 @@
+# Selenium Project
+
+## Giới thiệu
+Auto-Kways
+## Công nghệ sử dụng
+- **Selenium**: Thư viện tự động hóa trình duyệt để thực hiện các thao tác như nhấp chuột, điền form, v.v.
+- **Python**: Ngôn ngữ lập trình chính sử dụng cho việc xây dựng dự án này.
+- **WebDriver**: Cung cấp giao diện để giao tiếp với các trình duyệt web, như Chrome hoặc Firefox.
+
+## Cài đặt và sử dụng
+
+### Yêu cầu
+- Python 3.x
+- Trình duyệt Chrome (hoặc Firefox)
+- **Chromedriver** hoặc **Geckodriver** (tùy thuộc vào trình duyệt bạn sử dụng)
+
+### Cài đặt
+Truy cập vào trang chính thức của Chromedriver.
+Tải về phiên bản phù hợp với phiên bản Chrome bạn đang sử dụng. Để kiểm tra phiên bản Chrome, bạn có thể vào chrome://settings/help trong trình duyệt của mình.
+Sau khi tải xong, giải nén tệp và đặt chromedriver.exe vào một thư mục trong hệ thống hoặc thêm vào biến môi trường PATH.
+
+1. Clone dự án về máy của bạn:
+
+   git clone https://github.com/username/selenium-project.git
+   cd selenium-project
+   pip install -r requirements.txt
+
